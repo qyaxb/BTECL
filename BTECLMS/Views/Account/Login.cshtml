@@ -1,0 +1,20 @@
+﻿@model Btec_Website.ViewModels.LoginViewModel
+
+<form asp-controller="Account" asp-action="Login" method="post">
+    <input type="email" asp-for="Email" placeholder="Email" required>
+    <input type="password" asp-for="Password" placeholder="Password" required>
+
+    <div>
+        <input type="checkbox" asp-for="RememberMe">
+        <label asp-for="RememberMe">Remember me</label>
+    </div>
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+
+    <button class="btn btn-primary" type="submit">Login</button>
+    <a href="http://localhost:7012/Account/Register" class="btn btn-primary">Register</a>
+</form>

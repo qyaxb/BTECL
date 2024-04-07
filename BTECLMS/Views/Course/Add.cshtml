@@ -1,0 +1,17 @@
+﻿@model Btec_Website.Models.Course
+
+<h2>Add Course</h2>
+
+<form asp-controller="Course" asp-action="Add" method="post">
+    <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="Name" required>
+    </div>
+    <div>
+        <label for="description">Description:</label>
+        <textarea id="description" name="Description" required></textarea>
+    </div>
+    <button type="submit">Add Course</button>
+</form>
+
+<a asp-controller="Course" asp-action="Courses">Back to Courses</a>

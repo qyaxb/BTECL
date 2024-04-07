@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Btec_Website.ViewModels.CourseViewModel>
+
+@{
+    var userName = Context.Session.GetString("UserName");
+    var userRole = Context.Session.GetString("UserRole"); // Assuming you store user role in session
+    var isLoggedIn = !string.IsNullOrEmpty(userName);
+    var isTeacherOrAdmin = userRole == "Teacher" || userRole == "Admin";
+    
+    var courses = ViewData["Courses"] as List<Btec_Website.Models.Course>;
+    var currentUser = ViewData["CurrentUser"] as Btec_Website.Models.User;
+    
+}
+
+
+<div class="container">
+    <div>
+        <div class="col">
+            <h1>Course List</h1>
+        </div>
+        <div class="col text-right">
+            @if (isLoggedIn)
+            {
+                <form asp-controller="Account" asp-action="Logout" method="post" style="display: inline;">
+                    <button type="submit" class="btn btn-primary">Logout</button>
+                </form>
+                @if (isTeacherOrAdmin)
+                {
+                    <a href="@Url.Action("Courses", "Course")" class="btn btn-primary">Course Management</a>
+
+                    <a href="@Url.Action("Index", "Admin")" class="btn btn-primary">User Management</a>
+                }
+            }
+            else
+            {
+                <a href="@Url.Action("Login", "Account")" class="btn btn-primary" style="display: inline">Login</a>
+            }
+        </div>
+    </div>
+
+    @if (isLoggedIn)
+    {
+        <div class="row">
+            <div class="col">
+                <p>Welcome, @userName!</p>
+            </div>
+        </div>
+    }
+
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Course Name</th>
+                    <th>Description</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var courseViewModel in Model)
+                {
+                    <tr>
+                        <td>@courseViewModel.Course.Name</td>
+                        <td>@courseViewModel.Course.Description</td>
+                        <td>
+                            @if (isLoggedIn)
+                            {
+                                if (!courseViewModel.IsEnrolled)
+                                {
+                                    <form asp-controller="Course" asp-action="Enroll" method="post">
+                                        <input type="hidden" name="courseId" value="@courseViewModel.Course.Id" />
+                                        <button type="submit" class="btn btn-primary">Enroll</button>
+                                    </form>
+                                }
+                                else
+                                {
+                                    <span class="text-success">Enrolled</span>
+                                }
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Login", "Account")" class="btn btn-primary">Login to Enroll</a>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

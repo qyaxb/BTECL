@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Btec_Website.Models.Course>
+
+<h2>All Courses</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        @foreach (var course in Model)
+        {
+            <tr>
+
+                <td>@course.Name</td>
+                <td>@course.Description</td>
+                <td>
+
+                    
+                    
+                        <a asp-controller="Course" asp-action="Edit" asp-route-id="@course.Id">Edit</a>
+                    
+                    
+                        <a asp-controller="Course" asp-action="Delete" asp-route-id="@course.Id">Delete</a>
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Course" asp-action="Add">Add Course</a>
