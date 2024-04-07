@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\applied_programming_it0601\\Btec-Website.csproj": {}
+    "D:\\BTECL\\BTECLMS\\Btec-Website.csproj": {}
   },
   "projects": {
-    "D:\\applied_programming_it0601\\Btec-Website.csproj": {
+    "D:\\BTECL\\BTECLMS\\Btec-Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\applied_programming_it0601\\Btec-Website.csproj",
+        "projectUniqueName": "D:\\BTECL\\BTECLMS\\Btec-Website.csproj",
         "projectName": "Btec-Website",
-        "projectPath": "D:\\applied_programming_it0601\\Btec-Website.csproj",
+        "projectPath": "D:\\BTECL\\BTECLMS\\Btec-Website.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\applied_programming_it0601\\obj\\",
+        "outputPath": "D:\\BTECL\\BTECLMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,6 +70,18 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
             }
           },
           "imports": [
