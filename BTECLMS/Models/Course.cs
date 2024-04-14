@@ -4,12 +4,17 @@ namespace Btec_Website.Models
 {
     public class Course
     {
-
+        public Course()
+    {
+        EnrolledStudents = new HashSet<UserCourse>();
+    }
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
 
+
+        public ICollection<UserCourse> EnrolledStudents { get; set; }
         public bool IsVisibleToStudents { get; set; }
 
         public bool IsVisibleToTeachers { get; set; }

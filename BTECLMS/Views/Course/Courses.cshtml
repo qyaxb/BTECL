@@ -1,36 +1,115 @@
 ﻿@model IEnumerable<Btec_Website.Models.Course>
 
-<h2>All Courses</h2>
-
-<table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Description</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        
-        @foreach (var course in Model)
-        {
-            <tr>
-
-                <td>@course.Name</td>
-                <td>@course.Description</td>
-                <td>
-
-                    
-                    
-                        <a asp-controller="Course" asp-action="Edit" asp-route-id="@course.Id">Edit</a>
-                    
-                    
-                        <a asp-controller="Course" asp-action="Delete" asp-route-id="@course.Id">Delete</a>
-                    
-                </td>
-            </tr>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Courses</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
         }
-    </tbody>
-</table>
 
-<a asp-controller="Course" asp-action="Add">Add Course</a>
+        h2 {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #f2f2f2;
+        }
+
+        .action-links a {
+            display: inline-block;
+            margin-right: 5px;
+            padding: 5px 10px;
+            text-decoration: none;
+            color: #fff;
+            background-color: #007bff;
+            border-radius: 5px;
+        }
+
+            .action-links a:hover {
+                background-color: #0056b3;
+            }
+
+        .add-course-link {
+            display: block;
+            width: 150px;
+            margin: 20px auto;
+            text-align: center;
+            padding: 10px;
+            background-color: #28a745;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+            .add-course-link:hover {
+                background-color: #218838;
+            }
+    </style>
+</head>
+<body>
+
+    <h2>All Courses</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Enrolled Students</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var course in Model)
+            {
+                <tr>
+                    <td>@course.Name</td>
+                    <td>@course.Description</td>
+                    
+                    <td class="action-links">
+                        <a href="@Url.Action("Edit", "Course", new { id = course.Id })">Edit</a>
+                        <a href="@Url.Action("Delete", "Course", new { id = course.Id })">Delete</a>
+                        <form asp-action="Assign" asp-controller="Course" method="post">
+                            <input type="hidden" name="courseId" value="@course.Id" />
+                            <td class="action-links">
+                        <a href="@Url.Action("CourseAssigningGet", "Course", new { courseId = course.Id })">Assign Students</a>
+                    
+                    
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a class="add-course-link" href="@Url.Action("Add", "Course")">Add Course</a>
+    
+</body>
+</html>

@@ -28,7 +28,7 @@ namespace Btec_Website.Controllers
         Id = u.Id,
         Email = u.Email,
         UserName = u.UserName,
-        Role = u.Role,
+        Role = u.UserRole,
         // Map other properties as needed
     }).ToList();
 
@@ -78,7 +78,7 @@ namespace Btec_Website.Controllers
                 // Update user properties with the values from the view model
                 user.Email = userViewModel.Email;
                 user.UserName = userViewModel.UserName;
-                user.Role = userViewModel.Role;
+                user.UserRole = userViewModel.Role;
 
                 // Save changes to the database
                 _context.Users.Update(user);

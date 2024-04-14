@@ -1192,6 +1192,31 @@
           }
         }
       },
+      "Selenium.WebDriver/4.19.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Selenium.WebDriver.targets": {}
+        }
+      },
+      "Selenium.WebDriver.MicrosoftWebDriver/10.0.17134": {
+        "type": "package",
+        "build": {
+          "build/_._": {}
+        }
+      },
       "System.CodeDom/4.7.0": {
         "type": "package",
         "compile": {
@@ -1803,6 +1828,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3",
           "Moq": "4.20.70",
           "NUnit3TestAdapter": "4.5.0",
+          "Selenium.WebDriver": "4.19.0",
+          "Selenium.WebDriver.MicrosoftWebDriver": "10.0.17134",
           "xunit": "2.7.0"
         },
         "compile": {
@@ -3730,6 +3757,39 @@
         "runtimes/win-x86/native/sni.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "Selenium.WebDriver/4.19.0": {
+      "sha512": "rguRY+Kbiow0s7RHtnHXnJdMgsmqAOOtv7ZGBtIQ1DbErkFtksrZHdUMcKyMK6VKNMmfsViqcCDGw4mPSPT70w==",
+      "type": "package",
+      "path": "selenium.webdriver/4.19.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/Selenium.WebDriver.targets",
+        "buildTransitive/Selenium.WebDriver.targets",
+        "icon.png",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.xml",
+        "manager/linux/selenium-manager",
+        "manager/macos/selenium-manager",
+        "manager/windows/selenium-manager.exe",
+        "selenium.webdriver.4.19.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.MicrosoftWebDriver/10.0.17134": {
+      "sha512": "T9+pZfjmNk30PwdHkT87yyvONrEdh/2yn5kAY34wXQKOFDRaaX/IXLC5x+RBRRu54YJEaIKhTlSiJBmTYkr1Eg==",
+      "type": "package",
+      "path": "selenium.webdriver.microsoftwebdriver/10.0.17134",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Selenium.WebDriver.MicrosoftWebDriver.targets",
+        "driver/MicrosoftWebDriver.exe",
+        "selenium.webdriver.microsoftwebdriver.10.0.17134.nupkg.sha512",
+        "selenium.webdriver.microsoftwebdriver.nuspec"
       ]
     },
     "System.CodeDom/4.7.0": {

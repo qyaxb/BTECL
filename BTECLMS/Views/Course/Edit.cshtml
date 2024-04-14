@@ -1,18 +1,98 @@
 ﻿@model Btec_Website.Models.Course
 
-<h2>Edit Course</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Course</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
 
-<form asp-controller="Course" asp-action="Edit" method="post">
-    <input type="hidden" asp-for="Id" />
-    <div>
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="Name" value="@Model.Name" required>
-    </div>
-    <div>
-        <label for="description">Description:</label>
-        <textarea id="description" name="Description" required>@Model.Description</textarea>
-    </div>
-    <button type="submit">Update Course</button>
-</form>
+        h2 {
+            margin-top: 20px;
+            text-align: center;
+        }
 
-<a asp-controller="Course" asp-action="Courses">Back to Courses</a>
+        form {
+            width: 50%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"],
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        button[type="submit"] {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+            button[type="submit"]:hover {
+                background-color: #0056b3;
+            }
+
+        .back-link {
+            display: block;
+            width: 150px;
+            margin: 20px auto;
+            text-align: center;
+            padding: 10px;
+            background-color: #28a745;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+            .back-link:hover {
+                background-color: #218838;
+            }
+    </style>
+</head>
+<body>
+
+    <h2>Edit Course</h2>
+
+    <form asp-controller="Course" asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="Name" value="@Model.Name" required>
+        </div>
+        <div>
+            <label for="description">Description:</label>
+            <textarea id="description" name="Description" required>@Model.Description</textarea>
+        </div>
+        <button type="submit">Update Course</button>
+    </form>
+
+    <a class="back-link" asp-controller="Course" asp-action="Courses">Back to Courses</a>
+
+</body>
+</html>

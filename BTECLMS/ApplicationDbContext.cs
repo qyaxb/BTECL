@@ -33,8 +33,8 @@ namespace Btec_Website
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<User>().HasKey(u => u.Id);
-            modelBuilder.Entity<User>().HasKey(r => r.Role);
+            modelBuilder.Entity<User>().ToTable("Users").HasKey(u => u.Id);
+            //modelBuilder.Entity<User>().HasKey(r => r.UserRole);
             modelBuilder.Entity<Course>().HasKey(c => c.Id);
             modelBuilder.Entity<UserCourse>().HasKey(uc => new { uc.UserId, uc.CourseId });
             // Other entity configurations

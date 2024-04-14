@@ -3,127 +3,152 @@
   "WorkspaceRootPath": "D:\\BTECL\\BTECLMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E10DEE9-B967-44AF-95A7-0514890744A2}|..\\TestProject2\\TestProject2.csproj|d:\\btecl\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B0E8BA3-BA55-49D2-8BF0-23386012A389}|..\\SeleniumTest\\SeleniumTest.csproj|d:\\btecl\\seleniumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\course\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\course\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\models\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:models\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B0E8BA3-BA55-49D2-8BF0-23386012A389}|..\\SeleniumTest\\SeleniumTest.csproj|d:\\btecl\\seleniumtest\\seleniumtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\course\\courseassigningget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\course\\courseassigningget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\course\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\course\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\viewmodels\\courseassigningviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:viewmodels\\courseassigningviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\models\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:models\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\dependencyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:dependencyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\migrations\\20240411174505_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:migrations\\20240411174505_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E10DEE9-B967-44AF-95A7-0514890744A2}|..\\TestProject2\\TestProject2.csproj|d:\\btecl\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\migrations\\20240405210544_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:migrations\\20240405210544_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\dependencyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:dependencyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A846D1A8-56A7-4C65-84AC-7B6D8BF3A16A}|Btec-Website.csproj|d:\\btecl\\bteclms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -167,126 +192,126 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\BTECL\\TestProject2\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\TestProject2\\UnitTest1.cs",
-              "ToolTip": "D:\\BTECL\\TestProject2\\UnitTest1.cs",
-              "RelativeToolTip": "..\\TestProject2\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentMoniker": "D:\\BTECL\\SeleniumTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\SeleniumTest\\UnitTest1.cs",
+              "ToolTip": "D:\\BTECL\\SeleniumTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\SeleniumTest\\UnitTest1.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAuwIQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T18:55:18.107Z",
+              "WhenOpened": "2024-04-14T08:08:49.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Delete.cshtml",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T15:05:15.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAQwGsAAAAlAAAA",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwBgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T13:47:01.969Z"
+              "WhenOpened": "2024-04-02T14:54:15.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ViewModels\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\UserViewModel.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\ViewModels\\UserViewModel.cs",
-              "RelativeToolTip": "ViewModels\\UserViewModel.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAAA2AAAA",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T13:57:41.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T14:16:43.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T14:40:15.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "Controllers\\CourseController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAwJkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:41:01.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Edit.cshtml",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Edit.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T13:43:15.786Z"
+              "WhenOpened": "2024-04-02T17:07:51.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Add.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Add.cshtml",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Add.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Add.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T14:17:37.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Courses.cshtml",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Course\\Courses.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Courses.cshtml",
               "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Course\\Courses.cshtml",
               "RelativeToolTip": "Views\\Course\\Courses.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCMAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T15:34:59.288Z"
+              "WhenOpened": "2024-04-02T15:34:59.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "SeleniumTest",
+              "DocumentMoniker": "D:\\BTECL\\SeleniumTest\\SeleniumTest.csproj",
+              "RelativeDocumentMoniker": "..\\SeleniumTest\\SeleniumTest.csproj",
+              "ToolTip": "D:\\BTECL\\SeleniumTest\\SeleniumTest.csproj",
+              "RelativeToolTip": "..\\SeleniumTest\\SeleniumTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T08:13:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:40:15.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:44:07.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvyoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:30:32.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAYwO4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:41:01.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -294,131 +319,101 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:00:04.662Z"
+              "WhenOpened": "2024-04-02T15:00:04.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Course\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Add.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Course\\Add.cshtml",
+              "RelativeToolTip": "Views\\Course\\Add.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:35:34.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Edit.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T13:43:15.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:55:12.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseAssigningGet.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Course\\CourseAssigningGet.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\CourseAssigningGet.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Course\\CourseAssigningGet.cshtml",
+              "RelativeToolTip": "Views\\Course\\CourseAssigningGet.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T01:35:54.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseAssigningViewModel.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ViewModels\\CourseAssigningViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CourseAssigningViewModel.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\ViewModels\\CourseAssigningViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CourseAssigningViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:21:57.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UserCourse.cs",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Models\\UserCourse.cs",
               "RelativeDocumentMoniker": "Models\\UserCourse.cs",
               "ToolTip": "D:\\BTECL\\BTECLMS\\Models\\UserCourse.cs",
               "RelativeToolTip": "Models\\UserCourse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:00:39.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T14:39:39.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwvxoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T15:02:49.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:00:31.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAQwF4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T14:53:59.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:08:33.64Z"
+              "WhenOpened": "2024-04-02T15:00:39.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T14:54:15.329Z"
+              "Title": "Microsoft.CSharp.Core.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAUwFMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-14T06:45:13.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAcwGUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T19:18:55.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T15:30:32.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Models\\Course.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Models\\Course.cs",
-              "RelativeToolTip": "Models\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T14:59:19.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 13,
               "Title": "CourseViewModel.cs",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ViewModels\\CourseViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\CourseViewModel.cs",
@@ -426,7 +421,99 @@
               "RelativeToolTip": "ViewModels\\CourseViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T12:52:05.337Z"
+              "WhenOpened": "2024-04-07T12:52:05.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwFAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:47:01.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240411174505_InitialCreate2.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Migrations\\20240411174505_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240411174505_InitialCreate2.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Migrations\\20240411174505_InitialCreate2.cs",
+              "RelativeToolTip": "Migrations\\20240411174505_InitialCreate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:45:42.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyConfig.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\DependencyConfig.cs",
+              "RelativeDocumentMoniker": "DependencyConfig.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\DependencyConfig.cs",
+              "RelativeToolTip": "DependencyConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:22:15.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:00:31.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:59:19.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserViewModel.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:57:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\BTECL\\TestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject2\\UnitTest1.cs",
+              "ToolTip": "D:\\BTECL\\TestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:55:18.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -436,73 +523,53 @@
               "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
               "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Course\\Edit.cshtml",
               "RelativeToolTip": "Views\\Course\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T15:36:12.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:07:51.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAQwDAAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:55:12.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T18:24:40.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Course\\Add.cshtml",
-              "RelativeDocumentMoniker": "Views\\Course\\Add.cshtml",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Course\\Add.cshtml",
-              "RelativeToolTip": "Views\\Course\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T15:35:34.364Z"
+              "WhenOpened": "2024-04-02T15:36:12.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwBwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T15:02:53.305Z"
+              "WhenOpened": "2024-04-02T15:02:49.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwCgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:18:55.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:16:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "20240405210544_InitialCreate.cs",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Migrations\\20240405210544_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20240405210544_InitialCreate.cs",
@@ -510,11 +577,38 @@
               "RelativeToolTip": "Migrations\\20240405210544_InitialCreate.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAQwBkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T21:05:48.425Z"
+              "WhenOpened": "2024-04-05T21:05:48.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:53:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Delete.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T15:05:15.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -522,23 +616,77 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T18:24:40.291Z"
+              "WhenOpened": "2024-04-02T18:24:40.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "DependencyConfig.cs",
-              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\DependencyConfig.cs",
-              "RelativeDocumentMoniker": "DependencyConfig.cs",
-              "ToolTip": "D:\\BTECL\\BTECLMS\\DependencyConfig.cs",
-              "RelativeToolTip": "DependencyConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "DocumentIndex": 33,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T18:22:15.384Z"
+              "WhenOpened": "2024-04-02T14:39:39.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Add.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Admin\\Add.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Add.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:17:37.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:02:53.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T18:24:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\BTECL\\BTECLMS\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\BTECL\\BTECLMS\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:08:33.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -546,11 +694,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-02T17:59:42.65Z"
+              "WhenOpened": "2024-04-02T17:59:42.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "Btec-Website.csproj",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Btec-Website.csproj",
               "RelativeDocumentMoniker": "Btec-Website.csproj",
@@ -558,11 +707,12 @@
               "RelativeToolTip": "Btec-Website.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T18:24:24.138Z"
+              "WhenOpened": "2024-04-02T18:24:24.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -570,22 +720,20 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-02T17:59:58.078Z"
+              "WhenOpened": "2024-04-02T17:59:58.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "Btec-Website",
               "DocumentMoniker": "D:\\BTECL\\BTECLMS\\Btec-Website.csproj",
               "RelativeDocumentMoniker": "Btec-Website.csproj",
               "ToolTip": "D:\\BTECL\\BTECLMS\\Btec-Website.csproj",
               "RelativeToolTip": "Btec-Website.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T14:54:12.436Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-04-02T14:54:12.436Z",
+              "EditorCaption": ""
             }
           ]
         }

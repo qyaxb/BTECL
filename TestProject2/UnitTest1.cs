@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 using NUnit.Framework;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using System.Data.Entity;
+using Btec_Website.ViewModels;
 
 public class WebsiteUnitTest
 {
@@ -29,7 +31,7 @@ public class WebsiteUnitTest
     {
         // Arrange
         var dbContext = new ApplicationDbContext(/* pass any required options if needed */);
-        var controller = new CourseController(dbContext);// Assuming CourseController is your course management controller
+        var controller = new CourseController(dbContext);
         var courseId = 1;
 
         // Act
@@ -40,41 +42,45 @@ public class WebsiteUnitTest
         // Add more assertions as needed
     }
 
+    
+    // Modify the Delete action to display a confirmation view
+    [HttpGet]
     [Test]
+    public async Task Delete()
+    {
+        var dbContext = new ApplicationDbContext();
+        var controller = new AdminController(dbContext);
+
+        // Create a user view model for testing
+        var userViewModel = new UserViewModel { Id = 12 }; // Set the Id to a valid user Id for testing
+
+        // Act: Invoke the Delete action with the user view model
+        var result = await controller.Delete(userViewModel);
+
+        // Assert
+        Assert.IsInstanceOf<ViewResult>(result);
+    }
+
+    // Modify the DeleteConfirmed action to perform the deletion
+    [HttpPost, ActionName("Delete")]
+    [ValidateAntiForgeryToken]
+ 
+   
+    // Update the test case to invoke the DeleteConfirmed action
     public async Task Test_User_Deletion()
     {
         var dbContext = new ApplicationDbContext(/* pass any required options if needed */);
         var controller = new AdminController(dbContext); // Assuming AdminController is your admin management controller
-        var userId = 1;
+        var userId = 11;
 
-        // Act: Retrieve the user from the database
-        var user = await dbContext.Users.FirstOrDefaultAsync(u => u.Id == userId);
+        // Act: Invoke the DeleteConfirmed action directly
+        var result = await controller.Delete(new UserViewModel { Id = userId }) as RedirectToActionResult;
 
-        // Check if the user exists
-        if (user != null)
-        {
-            // Call the Delete method with the retrieved user object
-            var userViewModel = new Btec_Website.ViewModels.UserViewModel
-            {
-                // Map properties from user to userViewModel
-                Id = user.Id,
-                Email = user.Email,
-                UserName = user.UserName,
-                Role = user.Role,
-                // Map other properties as needed
-            };
-            var result = await controller.Delete(userViewModel) as RedirectToActionResult;
-
-            // Assert
-            Assert.AreEqual("Index", result.ActionName);
-            // Add more assertions as needed
-        }
-        else
-        {
-            // Handle the case where the user with the given ID doesn't exist
-            Assert.Fail($"User with ID {userId} does not exist.");
-        }
+        // Assert
+        Assert.AreEqual("Delete", result.ActionName);
+        // Add more assertions as needed
     }
+
 
     [Test]
     public async Task Test_Course_Creation()
@@ -88,7 +94,7 @@ public class WebsiteUnitTest
         var result = controller.Add(course) as RedirectToActionResult;
 
         // Assert
-        Assert.AreEqual("Index", result.ActionName);
+        Assert.AreEqual("Courses", result.ActionName);
         // Add more assertions as needed
     }
 

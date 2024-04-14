@@ -1,0 +1,52 @@
+﻿@model Btec_Website.ViewModels.CourseAssigningViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Assigning</title>
+</head>
+<body>
+    <h2>Assign Students to @ViewBag.Course.Name</h2>
+    
+    <h3>Course Details:</h3>
+    @if (Model != null)
+{
+    <p><strong>Description:</strong> @Model.Description</p>
+}
+else
+{
+    <p><strong>Description:</strong> No data available</p>
+}
+    
+   @if (Model != null && Model.EnrolledStudents != null)
+{
+    <h3>Enrolled Students:</h3>
+    <ul>
+        @foreach (var userCourse in Model.EnrolledStudents)
+        {
+             <li>@userCourse.UserName</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No enrolled students found.</p>
+}
+    
+    <h3>Assign New Students:</h3>
+    <form asp-action="AssignStudent" asp-controller="Course" method="post">
+        
+        <input type="hidden" name="courseId" value="@ViewBag.CourseId" />
+
+        <select name="studentId">
+            @foreach (var student in ViewBag.StudentsNotEnrolled)
+            {
+                <option value="@student.Id">@student.UserName</option>
+            }
+        </select>
+        <button type="submit">Assign</button>
+    </form>
+</body>
+</html>

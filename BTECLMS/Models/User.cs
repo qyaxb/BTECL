@@ -28,6 +28,7 @@ namespace Btec_Website.Models
         [DataType(DataType.Password)]
         public string Password { get; set; }
         public ICollection<UserCourse> UserCourse { get; set; }
-        public UserRole Role { get; set; }
+
+        public UserRole UserRole { get; set; }
     }
 }

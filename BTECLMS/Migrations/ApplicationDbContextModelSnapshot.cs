@@ -58,13 +58,16 @@ namespace Btec_Website.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    b.Property<string>("Name")
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Password")
+                    b.Property<string>("UserName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -104,7 +107,7 @@ namespace Btec_Website.Migrations
                         .IsRequired();
 
                     b.HasOne("Btec_Website.Models.User", "User")
-                        .WithMany()
+                        .WithMany("UserCourse")
                         .HasForeignKey("UserRole")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -112,6 +115,11 @@ namespace Btec_Website.Migrations
                     b.Navigation("Course");
 
                     b.Navigation("User");
+                });
+
+            modelBuilder.Entity("Btec_Website.Models.User", b =>
+                {
+                    b.Navigation("UserCourse");
                 });
 #pragma warning restore 612, 618
         }

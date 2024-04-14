@@ -70,11 +70,25 @@ app.UseAuthorization();
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
+        name: "deleteCourse",
+        pattern: "Course/Delete/{id}",
+        defaults: new { controller = "Course", action = "Delete" }
+    );
+
+    endpoints.MapControllerRoute(
         name: "default",
         pattern: "{controller=Home}/{action=Index}/{id?}");
+    endpoints.MapControllerRoute(
+        name: "CourseAssigningGet",
+        pattern: "Course/CourseAssigningGet",
+        defaults: new { controller = "Course", action = "CourseAssigningGet" });
+    endpoints.MapControllerRoute(
+        name: "AssignStudent", // Provide a unique name for the route
+        pattern: "Course/AssignStudent", // Define the URL pattern for the action
+        defaults: new { controller = "Course", action = "AssignStudent" } // Specify the controller and action
+    );
 });
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
 
 app.Run();

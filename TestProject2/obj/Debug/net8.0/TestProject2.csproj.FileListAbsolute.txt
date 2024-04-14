@@ -183,3 +183,7 @@ D:\BTECL\TestProject2\obj\Debug\net8.0\refint\TestProject2.dll
 D:\BTECL\TestProject2\obj\Debug\net8.0\TestProject2.pdb
 D:\BTECL\TestProject2\obj\Debug\net8.0\TestProject2.genruntimeconfig.cache
 D:\BTECL\TestProject2\obj\Debug\net8.0\ref\TestProject2.dll
+D:\BTECL\TestProject2\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+D:\BTECL\TestProject2\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+D:\BTECL\TestProject2\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+D:\BTECL\TestProject2\bin\Debug\net8.0\WebDriver.dll

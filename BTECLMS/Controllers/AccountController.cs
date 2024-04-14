@@ -42,7 +42,7 @@ namespace Btec_Website.Controllers
                     return View(model);
                 }
                 // Create a new User object with the provided properties
-                var user = new User { UserName = model. UserName, Email = model.Email, Password = model.Password, Role = model.Role };
+                var user = new User { UserName = model. UserName, Email = model.Email, Password = model.Password, UserRole = model.Role };
                 _context.Users.Add(user);
                 await _context.SaveChangesAsync();
 
@@ -104,7 +104,7 @@ namespace Btec_Website.Controllers
                         await HttpContext.SignInAsync(principal);
                         // Set session variables with the username and role
                         HttpContext.Session.SetString("UserName", user.UserName);
-                HttpContext.Session.SetString("UserRole", user.Role.ToString());
+                HttpContext.Session.SetString("UserRole", user.UserRole.ToString());
              
                 // Redirect to the home page
                 return RedirectToAction("Index", "Home");
